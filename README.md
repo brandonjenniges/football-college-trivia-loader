@@ -1,6 +1,6 @@
 # football-college-trivia-loader
 
-Utility to help create json for my Football College Trivia app
+Mac utility app to help create json for my Football College Trivia app
 
 Android
 -----------
